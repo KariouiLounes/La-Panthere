@@ -4,7 +4,7 @@ Welcome to the La Panthère project, an OPENCLASSROOM assignment that I've enhan
 <h2>About La Panthère</h2>
 La Panthère is a web design agency aimed at making businesses more attractive and visible on the internet. When I first encountered the site, it faced several challenges:
 
-<h3>Poor Performance Scores<h3>
+<h3>Poor Performance Scores</h3>
 Lack of Mobile Responsiveness
 Missing Heading Tags (h1, h2, h3)
 Unoptimized Images (size, colors, etc.)
